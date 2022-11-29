@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-15">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Fanny/exosjava/TestAopPlus/lib/aspectjweaver-1.9.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Fanny/exosjava/TestAopPlus/lib/spring-aop-5.3.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Fanny/exosjava/TestAopPlus/lib/spring-aspects-5.2.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Fanny/exosjava/TestAopPlus/lib/spring-beans-5.3.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Fanny/exosjava/TestAopPlus/lib/spring-context-5.3.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Fanny/exosjava/TestAopPlus/lib/spring-core-5.3.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Fanny/exosjava/TestAopPlus/lib/spring-expression-5.3.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Fanny/exosjava/TestAopPlus/lib/spring-jcl-5.3.6.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
